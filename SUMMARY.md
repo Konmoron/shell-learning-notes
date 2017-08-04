@@ -9,6 +9,7 @@
 * [输出](/articles/输出.md)
 * [流程控制](/articles/流程控制.md)
 * [函数](/articles/function.md)
+* [脚本内调用其他脚本](/articles/脚本内调用其他脚本.md)
 
 
 * [其他](/articles/其他.md)
