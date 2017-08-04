@@ -8,6 +8,7 @@
 * [基本运算符](/articles/基本运算符.md)
 * [输出](/articles/输出.md)
 * [流程控制](/articles/流程控制.md)
+* [函数](/articles/function.md)
 
 
 * [其他](/articles/其他.md)
